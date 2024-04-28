@@ -21,3 +21,15 @@ https://www.coursera.org/learn/programming-in-python/lecture/dvyoj/python-syntax
 ### Basic data types
 
 https://www.coursera.org/learn/programming-in-python/lecture/CrJKk/basic-data-types
+
+### Strings
+
+https://www.coursera.org/learn/programming-in-python/lecture/8ctQ2/strings
+
+### Type casting
+
+https://www.coursera.org/learn/programming-in-python/lecture/kyqAa/type-casting
+
+### User input, console output
+
+https://www.coursera.org/learn/programming-in-python/lecture/OLqVN/user-input-console-output
