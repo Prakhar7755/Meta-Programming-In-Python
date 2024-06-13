@@ -18,8 +18,37 @@ https://www.coursera.org/learn/programming-in-python/quiz/b7is1/self-review-defi
 
 https://www.coursera.org/learn/programming-in-python/supplement/jxAD4/exercise-instantiate-a-custom-object
 
-##
+@IMPORTANT
+
+## Inheritance and Multiple Inheritance
+
+https://www.coursera.org/learn/programming-in-python/supplement/ZUR2d/inheritance-and-multiple-inheritance
+
+## Exercise: Classes and object exploration
+
+https://www.coursera.org/learn/programming-in-python/supplement/SBrCl/exercise-classes-and-object-exploration
+
+## Practice Quiz: Abstract classes and methods
+
+https://www.coursera.org/learn/programming-in-python/quiz/yhRl6/abstract-classes-and-methods
+
+## Working with Methods: Examples
+
+https://www.coursera.org/learn/programming-in-python/supplement/7XKNQ/working-with-methods-examples
+
+## Exercise: Working with Methods
+
+https://www.coursera.org/learn/programming-in-python/supplement/RDQDT/exercise-working-with-methods
+
+## Working with Methods - solution
+https://www.coursera.org/learn/programming-in-python/supplement/KF8D3/working-with-methods-solution
+
+## Self-review: Working with Methods
+https://www.coursera.org/learn/programming-in-python/quiz/71Mfg/self-review-working-with-methods
 
 ##
 
 ##
+
+##
+
