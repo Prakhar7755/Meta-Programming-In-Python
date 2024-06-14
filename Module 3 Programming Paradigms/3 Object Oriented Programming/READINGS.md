@@ -41,14 +41,17 @@ https://www.coursera.org/learn/programming-in-python/supplement/7XKNQ/working-wi
 https://www.coursera.org/learn/programming-in-python/supplement/RDQDT/exercise-working-with-methods
 
 ## Working with Methods - solution
+
 https://www.coursera.org/learn/programming-in-python/supplement/KF8D3/working-with-methods-solution
 
 ## Self-review: Working with Methods
+
 https://www.coursera.org/learn/programming-in-python/quiz/71Mfg/self-review-working-with-methods
 
-##
+## Module quiz: Programming Paradigms
 
-##
+https://www.coursera.org/learn/programming-in-python/exam/LXRUu/module-quiz-programming-paradigms
+M
+## Additional resources
 
-##
-
+https://www.coursera.org/learn/programming-in-python/supplement/zHCMs/additional-resources
