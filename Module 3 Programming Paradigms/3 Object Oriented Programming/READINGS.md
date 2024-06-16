@@ -51,7 +51,7 @@ https://www.coursera.org/learn/programming-in-python/quiz/71Mfg/self-review-work
 ## Module quiz: Programming Paradigms
 
 https://www.coursera.org/learn/programming-in-python/exam/LXRUu/module-quiz-programming-paradigms
-M
+
 ## Additional resources
 
 https://www.coursera.org/learn/programming-in-python/supplement/zHCMs/additional-resources
